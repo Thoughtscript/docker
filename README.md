@@ -8,6 +8,8 @@ This repo uses [Docker Desktop (Windows)](https://hub.docker.com/editions/commun
 
 ## Table of Contents
 
+See [Docker CLI](https://docs.docker.com/engine/reference/commandline/info/):
+
 1. [Login to Docker and Docker Hub](./login.sh)
 1. [Admin commands](./admin_ls.sh)
 1. [Download a Docker Hub image, stop it if it's already running, and start fresh](./start_fresh.sh)
