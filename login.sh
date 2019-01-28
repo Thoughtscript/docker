@@ -1,3 +1,6 @@
 #!/usr/bin/env bash
 
-docker login --username foo --password-stdin
+# For full functionality login through the Desktop client is also required in addition to the CLI
+# CLI Login
+docker login -u foo -p "aaaa111(((("
+docker logout
