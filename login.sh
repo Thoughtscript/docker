@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
-# For full functionality login through the Desktop client is also required in addition to the CLI
+# Desktop Client login is also required for full functionality!
+# Note that Desktop Client and DockerHub credentials may vary from CLI credentials!
+#
 # CLI Login
 docker login -u foo -p "aaaa111(((("
 docker logout
